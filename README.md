@@ -1,9 +1,7 @@
 ## Hi there 👋
-```cpp
-#include<iostream>
-using namespace std;
-int main(){
-cout<< "Nothing here, curious one";
+```php
+
+echo "Nothing here, curious one";
 }
 ```
 <!--

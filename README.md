@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="me.jpg" width="200"/>
+</p>
+
 ```php
 
 echo "Nothing here, curious one";

@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+```
+#include<iostream>
+using namespace std;
+int main(){
+  cout<< "Nothing here, curious one";
+}
+```
 <!--
 **alkawty/alkawty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

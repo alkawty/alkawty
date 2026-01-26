@@ -4,9 +4,10 @@
 </p>
 
 ```php
+<?php
 
-echo "Nothing here, curious one";
-}
+echo "Nothing here, curious one 🗿";
+
 ```
 <!--
 **alkawty/alkawty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

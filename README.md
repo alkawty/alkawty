@@ -1,9 +1,9 @@
 ## Hi there 👋
-```
+```cpp
 #include<iostream>
 using namespace std;
 int main(){
-  cout<< "Nothing here, curious one";
+cout<< "Nothing here, curious one";
 }
 ```
 <!--

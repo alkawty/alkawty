@@ -2,7 +2,7 @@
 <p align="center">
   <img src="Img/me.png" width="200"/>
 </p>
-
+<img src="Img/me.png" width="200"/>
 ```php
 <?php
 

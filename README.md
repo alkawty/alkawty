@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="Img/me.png" width="200"/>
+  <img src="https://i.postimg.cc/FKZn8ck0/me.png" width="200"/>
 </p>
 
 ```php
